@@ -1,0 +1,4 @@
+@ParametersAreNonnullByDefault
+package dev.uncandango.heapsanitizer.utils;
+
+import javax.annotation.ParametersAreNonnullByDefault;

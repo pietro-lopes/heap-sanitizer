@@ -1,0 +1,30 @@
+Heap Dump Tool
+Copyright 2020 PayPal Inc.
+
+This product includes software from Annotations for JVM-based languages (Apache 2.0)
+https://github.com/JetBrains/java-annotations
+
+This product includes software from JUnit Jupiter (Eclipse Public License - v 2.0)
+https://github.com/junit-team/junit5/
+
+This product includes software from AssertJ Core (Apache 2.0)
+https://github.com/assertj/assertj
+
+This product includes software from Apache Commons IO (Apache 2.0)
+https://github.com/apache/commons-io
+
+This product includes software from Apache Commons Lang (Apache 2.0)
+https://github.com/apache/commons-lang
+
+This product includes software from SpotBugs Annotations (LGPL)
+https://github.com/spotbugs/spotbugs
+
+This product includes software from JUnit Pioneer (Eclipse Public License - v 2.0)
+https://github.com/junit-pioneer/junit-pioneer
+
+This product includes software from Apache Log4j2 (Apache 2.0)
+https://github.com/apache/logging-log4j2
+
+Additional contributors:
+
+* Pietro Lopes, 2024
